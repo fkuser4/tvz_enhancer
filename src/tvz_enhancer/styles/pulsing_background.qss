@@ -1,0 +1,6 @@
+/* styles/pulsing_background.qss */
+
+/* Example: If you have specific styles for PulsingBackground */
+PulsingBackground {
+    /* Currently, background color is handled via Python, so this might be empty */
+}

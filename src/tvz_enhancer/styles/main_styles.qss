@@ -1,0 +1,41 @@
+/* styles/main_styles.qss */
+
+/* Import component-specific styles */
+@import "animated_button.qss";
+@import "pulsing_background.qss";
+@import "spinning_loader.qss";
+
+/* Global Styles */
+QWidget {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+QLabel#titleLabel {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+QLabel#infoLabel {
+    color: #a0a0a0;
+    font-size: 12px;
+}
+
+#loginContent {
+    /* Styles specific to loginContent if needed */
+}
+
+#cancelButton {
+    /* Styles for the cancel button in LoginWindow */
+    background-color: #ff0000;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#cancelButton:hover {
+    background-color: #cc0000;
+}

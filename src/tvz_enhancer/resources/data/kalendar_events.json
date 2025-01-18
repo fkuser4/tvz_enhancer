@@ -1,0 +1,124 @@
+{
+    "2025-01-16": [
+        {
+            "Naziv": "NOVI",
+            "Vrijeme početka": "2025-01-16 00:00",
+            "Vrijeme kraja": "2025-01-16 01:00",
+            "Lokacija": "DOMA",
+            "Tip": "Predavanja",
+            "Opis": ""
+        },
+        {
+            "Naziv": "Novo",
+            "Vrijeme početka": "2025-01-16 10:00",
+            "Vrijeme kraja": "2025-01-16 11:00",
+            "Lokacija": "online",
+            "Tip": "Predavanja",
+            "Opis": ""
+        },
+        {
+            "Naziv": "Unix ispit",
+            "Vrijeme početka": "2025-01-16 16:00",
+            "Vrijeme kraja": "2025-01-16 17:00",
+            "Lokacija": "Online",
+            "Tip": "Ispit",
+            "Opis": ""
+        },
+        {
+            "Naziv": "Unix",
+            "Vrijeme početka": "2025-01-16 00:00",
+            "Vrijeme kraja": "2025-01-16 01:00",
+            "Lokacija": "Online",
+            "Tip": "Predavanja",
+            "Opis": ""
+        }
+    ],
+    "2025-03-07": [
+        {
+            "Naziv": "Daleki dogadaj",
+            "Vrijeme početka": "2025-03-07 00:00",
+            "Vrijeme kraja": "2025-03-07 01:00",
+            "Lokacija": "ONLNE",
+            "Tip": "Drugo",
+            "Opis": ""
+        }
+    ],
+    "2025-01-22": [
+        {
+            "Naziv": "LABOS",
+            "Vrijeme početka": "2025-01-22 17:00",
+            "Vrijeme kraja": "2025-01-22 18:00",
+            "Lokacija": "ONLINE",
+            "Tip": "Laboratorijske vježbe",
+            "Opis": ""
+        }
+    ],
+    "2025-01-29": [
+        {
+            "Naziv": "LABOS",
+            "Vrijeme početka": "2025-01-29 17:00",
+            "Vrijeme kraja": "2025-01-29 18:00",
+            "Lokacija": "ONLINE",
+            "Tip": "Laboratorijske vježbe",
+            "Opis": ""
+        }
+    ],
+    "2025-02-06": [
+        {
+            "Naziv": "unix",
+            "Vrijeme početka": "2025-02-06 00:00",
+            "Vrijeme kraja": "2025-02-06 01:00",
+            "Lokacija": "Vrbik",
+            "Tip": "Predavanja",
+            "Opis": ""
+        },
+        {
+            "Naziv": "Novo",
+            "Vrijeme početka": "2025-02-06 10:00",
+            "Vrijeme kraja": "2025-02-06 11:00",
+            "Lokacija": "online",
+            "Tip": "Predavanja",
+            "Opis": ""
+        }
+    ],
+    "2025-02-21": [
+        {
+            "Naziv": "unix",
+            "Vrijeme početka": "2025-02-21 00:00",
+            "Vrijeme kraja": "2025-02-21 01:00",
+            "Lokacija": "Online",
+            "Tip": "Predavanja",
+            "Opis": ""
+        }
+    ],
+    "2025-02-28": [
+        {
+            "Naziv": "unix",
+            "Vrijeme početka": "2025-02-28 00:00",
+            "Vrijeme kraja": "2025-02-28 01:00",
+            "Lokacija": "vrbik",
+            "Tip": "Laboratorijske vježbe",
+            "Opis": ""
+        }
+    ],
+    "2025-01-23": [
+        {
+            "Naziv": "Novo",
+            "Vrijeme početka": "2025-01-23 10:00",
+            "Vrijeme kraja": "2025-01-23 11:00",
+            "Lokacija": "online",
+            "Tip": "Predavanja",
+            "Opis": ""
+        }
+    ],
+    "2025-01-30": [
+        {
+            "Naziv": "Novo",
+            "Vrijeme početka": "2025-01-30 10:00",
+            "Vrijeme kraja": "2025-01-30 11:00",
+            "Lokacija": "online",
+            "Tip": "Predavanja",
+            "Opis": ""
+        }
+    ]
+}

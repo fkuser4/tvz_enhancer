@@ -1,0 +1,919 @@
+{
+    "courses": [
+        {
+            "name": "Administracija računalnih mreža",
+            "notifications": [],
+            "files": [
+                {
+                    "name": "Pravila kolegija 2024/25",
+                    "extension": "/15231/111135",
+                    "type": "pdf",
+                    "date": "03.10.24"
+                },
+                {
+                    "name": "Rezultati ARM 10122024",
+                    "extension": "/15231/113053",
+                    "type": "pdf",
+                    "date": "10.12.24"
+                },
+                {
+                    "name": "ARM Tutorial Lab7 PPP",
+                    "extension": "http://youtu.be/hdiTN_v05mU",
+                    "type": "html",
+                    "date": "28.11.14"
+                },
+                {
+                    "name": "ARM Tutorial Lab6 L3 Switch",
+                    "extension": "http://youtu.be/ozOzlSzPDXA",
+                    "type": "html",
+                    "date": "28.11.14"
+                },
+                {
+                    "name": "ARM Tutorial Lab5 Inter-VLAN Routing",
+                    "extension": "http://youtu.be/hC5-rD6mlBU",
+                    "type": "html",
+                    "date": "28.11.14"
+                },
+                {
+                    "name": "ARM Tutorial Lab4 Switching",
+                    "extension": "http://youtu.be/VVZIBY90bFc",
+                    "type": "html",
+                    "date": "28.11.14"
+                },
+                {
+                    "name": "ARM Tutorial Lab3 ACL",
+                    "extension": "http://youtu.be/T2U3swGpL2s",
+                    "type": "html",
+                    "date": "11.11.14"
+                },
+                {
+                    "name": "ARM Tutorial Lab2 OSPF",
+                    "extension": "http://youtu.be/IbhBv0IGDuw",
+                    "type": "html",
+                    "date": "11.11.14"
+                },
+                {
+                    "name": "ARM Tutorial Lab1 Basic,RIP...",
+                    "extension": "http://youtu.be/wszkoIPu4SQ?list=ULwszkoIPu4SQ",
+                    "type": "html",
+                    "date": "11.11.14"
+                }
+            ]
+        },
+        {
+            "name": "Metodologija stručnog i istraživačkog rada",
+            "notifications": [],
+            "files": [
+                {
+                    "name": "P9_P10_Provjera točnosti informacija",
+                    "extension": "/22664/113415",
+                    "type": "pdf",
+                    "date": "03.01.25"
+                },
+                {
+                    "name": "P7_P8_Primjeri završnih i stručnih radova",
+                    "extension": "/22664/113414",
+                    "type": "pdf",
+                    "date": "03.01.25"
+                },
+                {
+                    "name": "P5_P6_Pisanje znanstvenih i stručnih radova",
+                    "extension": "/22664/113413",
+                    "type": "pdf",
+                    "date": "03.01.25"
+                },
+                {
+                    "name": "P3_P4_Metodologij_znanstvenog_istraživanja",
+                    "extension": "/22664/113412",
+                    "type": "pdf",
+                    "date": "03.01.25"
+                },
+                {
+                    "name": "P1_P2_Metodologija",
+                    "extension": "/22664/113411",
+                    "type": "pdf",
+                    "date": "03.01.25"
+                },
+                {
+                    "name": "Ostvareni bodovi iz vježbi iz kolegija MSIR",
+                    "extension": "/22664/113024",
+                    "type": "pdf",
+                    "date": "09.12.24"
+                },
+                {
+                    "name": "Upute za studente za provjeru seminarskog rada",
+                    "extension": "/22664/106529",
+                    "type": "pdf",
+                    "date": "08.01.24"
+                },
+                {
+                    "name": "Popis tema za seminarski rad (za studente koji još nemaju odabranu temu završnog rada)",
+                    "extension": "/22664/111724",
+                    "type": "xls",
+                    "date": "21.10.24"
+                },
+                {
+                    "name": "Baze za pretraživanje literature",
+                    "extension": "/22664/111930",
+                    "type": "pdf",
+                    "date": "28.10.24"
+                },
+                {
+                    "name": "Predložak naslovne stranice seminarskog rada (koristiti kod pisanja seminara)",
+                    "extension": "/22664/111855",
+                    "type": "doc",
+                    "date": "24.10.24"
+                },
+                {
+                    "name": "Seminarski rad_primjer",
+                    "extension": "/22664/112530",
+                    "type": "pdf",
+                    "date": "21.11.24"
+                },
+                {
+                    "name": "Seminarski rad - osnovne upute za izradu seminara za polaganje kolegija MSIR",
+                    "extension": "/22664/111854",
+                    "type": "pdf",
+                    "date": "24.10.24"
+                },
+                {
+                    "name": "V5 - Priprema predloška Word dokumenta za izradu seminarskog/završnog rada",
+                    "extension": "/22664/112727",
+                    "type": "pdf",
+                    "date": "28.11.24"
+                },
+                {
+                    "name": "V4 - Primjena citiranja prema IEEE i APA stilu kod pisanja akademskih radova",
+                    "extension": "/22664/112632",
+                    "type": "pdf",
+                    "date": "25.11.24"
+                },
+                {
+                    "name": "Citiranje prema IEEE/APA stilu_zadaci za vježbu",
+                    "extension": "/22664/112631",
+                    "type": "doc",
+                    "date": "25.11.24"
+                },
+                {
+                    "name": "V3 - Alati za upravljanje bibliografijom i izrada misaone mape",
+                    "extension": "/22664/111941",
+                    "type": "pdf",
+                    "date": "28.10.24"
+                },
+                {
+                    "name": "Izrada misaone mape - snimka prošlogodišnjih vježbi s Teams-a (dopuna današnjem predavanju)",
+                    "extension": "/22664/111929",
+                    "type": "x",
+                    "date": "28.10.24"
+                },
+                {
+                    "name": "Pisanje sažetka - snimka prošlogodišnjih vježbi s Teams-a ( dopuna današnjem predavanju)",
+                    "extension": "/22664/111868",
+                    "type": "x",
+                    "date": "24.10.24"
+                },
+                {
+                    "name": "V2 - Pisanje sažetka na temelju članka",
+                    "extension": "/22664/111853",
+                    "type": "pdf",
+                    "date": "24.10.24"
+                },
+                {
+                    "name": "V1 - Upute za izradu seminarskog rada",
+                    "extension": "/22664/111852",
+                    "type": "pdf",
+                    "date": "24.10.24"
+                },
+                {
+                    "name": "Upute za pohađanje vježbi iz MSIR",
+                    "extension": "/22664/111725",
+                    "type": "pdf",
+                    "date": "21.10.24"
+                }
+            ]
+        },
+        {
+            "name": "Napredne baze podataka",
+            "notifications": [],
+            "files": [
+                {
+                    "name": "Upute za pristup timu na MS Teamsu",
+                    "extension": "/16003/81391",
+                    "type": "pdf",
+                    "date": "05.10.20"
+                },
+                {
+                    "name": "Kramberger, Kraljević (Duk), Kovačević: \"Baze podataka\"",
+                    "extension": "/16003/61589",
+                    "type": "pdf",
+                    "date": "01.10.18"
+                },
+                {
+                    "name": "Priručnik za rad s MySQL DBMS-om",
+                    "extension": "http://dev.mysql.com/doc/refman/5.7/en/",
+                    "type": "html",
+                    "date": "24.10.16"
+                },
+                {
+                    "name": "Popis literature",
+                    "extension": "/16003/15885",
+                    "type": "pdf",
+                    "date": "17.01.13"
+                },
+                {
+                    "name": "Preuzimanje SQLyog alata",
+                    "extension": "https://code.google.com/archive/p/sqlyog/wikis/Downloads.wiki",
+                    "type": "html",
+                    "date": "24.10.16"
+                },
+                {
+                    "name": "Preuzimanje MySQL dbms-a",
+                    "extension": "http://dev.mysql.com/downloads/mysql/",
+                    "type": "html",
+                    "date": "24.10.16"
+                },
+                {
+                    "name": "Preuzimanje uWamp alata",
+                    "extension": "http://www.uwamp.com/en/?page=download",
+                    "type": "html",
+                    "date": "24.10.16"
+                }
+            ]
+        },
+        {
+            "name": "Napredno JavaScript programiranje",
+            "notifications": [
+                {
+                    "title": "6. labos",
+                    "message": "6. labos će se održati u tjednu od 13. siječnja u terminima labosa (jer je 6. siječnja praznik)",
+                    "time": "2.1.2025 u 12h"
+                },
+                {
+                    "title": "6. labos",
+                    "message": "aaaaaaaaaaaaaaanu od 13. siječnja u terminima labosa (jer je 6. siječnja praznik)",
+                    "time": "2.1.2025 u 12h"
+                },
+                {
+                    "title": "6. asdos",
+                    "message": "aaaaaasdja u terminima labosa (jer je 6. siječnja praznik)",
+                    "time": "2.1.2025 u 12h"
+                }
+                ,
+                {
+                    "title": "tinnnnnn",
+                    "message": "aaaaaasdja u terminima labosa (jer je 6. siječnja praznik)",
+                    "time": "2.1.2025 u 12h"
+                }
+            ],
+            "files": [
+                {
+                    "name": "Zahtjevi i teme projekata",
+                    "extension": "/21484/113112",
+                    "type": "pdf",
+                    "date": "11.12.24"
+                },
+                {
+                    "name": "NJP1 - Uvodno predavanje",
+                    "extension": "/21484/111362",
+                    "type": "pdf",
+                    "date": "09.10.24"
+                },
+                {
+                    "name": "NJP2 - Osnove Javascripta (1. dio)",
+                    "extension": "/21484/111363",
+                    "type": "pdf",
+                    "date": "09.10.24"
+                },
+                {
+                    "name": "NJP2 - primjeri s predavanja (1. dio)",
+                    "extension": "/21484/111364",
+                    "type": "zip",
+                    "date": "09.10.24"
+                },
+                {
+                    "name": "NJP2 - Osnove Javascripta",
+                    "extension": "/21484/111589",
+                    "type": "pdf",
+                    "date": "16.10.24"
+                },
+                {
+                    "name": "NJP2 - primjeri s predavanja",
+                    "extension": "/21484/111590",
+                    "type": "zip",
+                    "date": "16.10.24"
+                },
+                {
+                    "name": "NJP3 - DOM + eventi",
+                    "extension": "/21484/111833",
+                    "type": "pdf",
+                    "date": "23.10.24"
+                },
+                {
+                    "name": "NJP3 - primjeri s predavanja",
+                    "extension": "/21484/111834",
+                    "type": "zip",
+                    "date": "23.10.24"
+                },
+                {
+                    "name": "NJP4 - AJAX",
+                    "extension": "https://slides.com/oggy29/ipw10",
+                    "type": "html",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "NJP4 - primjeri s predavanja",
+                    "extension": "/21484/112012",
+                    "type": "zip",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "NJP5 - Angular (komponente, moduli, direktive)",
+                    "extension": "/21484/112129",
+                    "type": "pdf",
+                    "date": "06.11.24"
+                },
+                {
+                    "name": "NJP5 - primjeri s predavanja (potrebno je imati instaliran Node.js i pokrenuti \"npm install\" u rootu nakon otpakiravanja kako bi se instalirali potrebni paketi)",
+                    "extension": "/21484/112130",
+                    "type": "zip",
+                    "date": "06.11.24"
+                },
+                {
+                    "name": "NJP5 - primjeri TypeScript",
+                    "extension": "/21484/112131",
+                    "type": "zip",
+                    "date": "06.11.24"
+                },
+                {
+                    "name": "NJP6 - Angular (routing, pipes)",
+                    "extension": "/21484/112318",
+                    "type": "pdf",
+                    "date": "14.11.24"
+                },
+                {
+                    "name": "NJP6 - primjeri s predavanja (npm install)",
+                    "extension": "/21484/112319",
+                    "type": "zip",
+                    "date": "14.11.24"
+                },
+                {
+                    "name": "NJP7 - Angular (Http, servisi)",
+                    "extension": "/21484/112506",
+                    "type": "pdf",
+                    "date": "20.11.24"
+                },
+                {
+                    "name": "NJP7 - primjeri s predavanja (pokrenuti npm install)",
+                    "extension": "/21484/112505",
+                    "type": "zip",
+                    "date": "20.11.24"
+                },
+                {
+                    "name": "NJP8 - Angular (komunikacija, moduli, forme)",
+                    "extension": "/21484/112707",
+                    "type": "pdf",
+                    "date": "27.11.24"
+                },
+                {
+                    "name": "NJP8 - primjeri s predavanja (npm install)",
+                    "extension": "/21484/112708",
+                    "type": "zip",
+                    "date": "27.11.24"
+                },
+                {
+                    "name": "NJP9 - Angular (direktive, reactive forme, autentifikacija)",
+                    "extension": "/21484/112896",
+                    "type": "pdf",
+                    "date": "04.12.24"
+                },
+                {
+                    "name": "NJP9 - primjeri s predavanja (npm install)",
+                    "extension": "/21484/112897",
+                    "type": "zip",
+                    "date": "04.12.24"
+                },
+                {
+                    "name": "NJP10 - Node.js",
+                    "extension": "/21484/113109",
+                    "type": "pdf",
+                    "date": "11.12.24"
+                },
+                {
+                    "name": "NJP10 - primjeri s predavanja",
+                    "extension": "/21484/113110",
+                    "type": "zip",
+                    "date": "11.12.24"
+                },
+                {
+                    "name": "NJP11 - Express",
+                    "extension": "/21484/113304",
+                    "type": "pdf",
+                    "date": "18.12.24"
+                },
+                {
+                    "name": "NJP11 - primjeri s predavanja",
+                    "extension": "/21484/113305",
+                    "type": "zip",
+                    "date": "18.12.24"
+                },
+                {
+                    "name": "NJP2 - Osnove JavaScripta (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=dquqjrMd8Ug&ab_channel=OgnjenStani%C4%8Di%C4%87",
+                    "type": "html",
+                    "date": "09.10.24"
+                },
+                {
+                    "name": "NJP3 - DOM + events (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=g4vCIkoh1YU&ab_channel=OgnjenStani%C4%8Di%C4%87",
+                    "type": "html",
+                    "date": "23.10.24"
+                },
+                {
+                    "name": "NJP4 - AJAX (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=1WKVzQ47E0w",
+                    "type": "html",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "NJP5 - Angular uvod (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=4FYRz00_DY0",
+                    "type": "html",
+                    "date": "06.11.24"
+                },
+                {
+                    "name": "NJP6 - Angular routing, pipes (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=hKqYko56TA4",
+                    "type": "html",
+                    "date": "14.11.24"
+                },
+                {
+                    "name": "NJP7 - Angular Http, servisi (stari video -> ima razlika, gledati nove primjere)",
+                    "extension": "https://www.youtube.com/watch?v=5cuR16CcCAQ",
+                    "type": "html",
+                    "date": "20.11.24"
+                },
+                {
+                    "name": "NJP8 - Angular komunikacija, moduli, forme (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=6XW-ihyf47g",
+                    "type": "html",
+                    "date": "27.11.24"
+                },
+                {
+                    "name": "NJP9 - Angular direktive, reactive forms, autentifikacija (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=03iDBIYWqb4",
+                    "type": "html",
+                    "date": "04.12.24"
+                },
+                {
+                    "name": "NJP10 - Node.js (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=O1OmQq-yIoY",
+                    "type": "html",
+                    "date": "11.12.24"
+                },
+                {
+                    "name": "NJP11 - Express (stari video)",
+                    "extension": "https://www.youtube.com/watch?v=pP_aMYToyhk",
+                    "type": "html",
+                    "date": "18.12.24"
+                }
+            ]
+        },
+        {
+            "name": "Napredno programiranje u jeziku Python",
+            "notifications": [],
+            "files": []
+        },
+        {
+            "name": "Oblikovanje web stranica",
+            "notifications": [],
+            "files": [
+                {
+                    "name": "8. boje",
+                    "extension": "/18416/112925",
+                    "type": "pdf",
+                    "date": "05.12.24"
+                },
+                {
+                    "name": "7. tipografija",
+                    "extension": "/18416/112807",
+                    "type": "pdf",
+                    "date": "02.12.24"
+                },
+                {
+                    "name": "6. navigacija",
+                    "extension": "/18416/112806",
+                    "type": "pdf",
+                    "date": "02.12.24"
+                },
+                {
+                    "name": "5. mreža",
+                    "extension": "/18416/112805",
+                    "type": "pdf",
+                    "date": "02.12.24"
+                },
+                {
+                    "name": "4. wireframe",
+                    "extension": "/18416/112804",
+                    "type": "pdf",
+                    "date": "02.12.24"
+                },
+                {
+                    "name": "2. AI",
+                    "extension": "/18416/111937",
+                    "type": "pdf",
+                    "date": "28.10.24"
+                },
+                {
+                    "name": "1. UX",
+                    "extension": "/18416/111936",
+                    "type": "pdf",
+                    "date": "28.10.24"
+                },
+                {
+                    "name": "uvodno predavanje / teme",
+                    "extension": "/18416/111411",
+                    "type": "pdf",
+                    "date": "10.10.24"
+                },
+                {
+                    "name": "Uvjeti predmeta",
+                    "extension": "https://docs.google.com/document/d/1qNVM5dJyWBYKDz8Zswnj-janp-WJZCoiWLpMguYhyM4/edit?usp=sharinghttp://",
+                    "type": "html",
+                    "date": "02.10.20"
+                },
+                {
+                    "name": "OWS rač 23_24 ocjene",
+                    "extension": "/18416/107178",
+                    "type": "pdf",
+                    "date": "30.01.24"
+                },
+                {
+                    "name": "Tablica ocjena OWS Rač 22/23",
+                    "extension": "/18416/100143",
+                    "type": "pdf",
+                    "date": "06.02.23"
+                },
+                {
+                    "name": "Tablica ocjena",
+                    "extension": "/18416/92470",
+                    "type": "pdf",
+                    "date": "31.01.22"
+                },
+                {
+                    "name": "službena skripta",
+                    "extension": "/18416/57164",
+                    "type": "pdf",
+                    "date": "08.02.18"
+                },
+                {
+                    "name": "Predavanje o Gridu",
+                    "extension": "https://vimeo.com/239782886",
+                    "type": "html",
+                    "date": "25.11.22"
+                },
+                {
+                    "name": "persona template",
+                    "extension": "/18416/36990",
+                    "type": "pdf",
+                    "date": "13.10.15"
+                }
+            ]
+        },
+        {
+            "name": "Razvoj računalnih igara",
+            "notifications": [
+                {
+                    "title": "MS Teams kanal",
+                    "message": "Za pristup MS Teams kanalu koristite pristupni kod: xq8k7b6",
+                    "time": "9.10.2024 u 19h"
+                }
+            ],
+            "files": [
+                {
+                    "name": "00 - Pravila kolegija",
+                    "extension": "/20516/111367",
+                    "type": "pdf",
+                    "date": "09.10.24"
+                },
+                {
+                    "name": "Smjernice za projekt",
+                    "extension": "/20516/113367",
+                    "type": "pdf",
+                    "date": "20.12.24"
+                },
+                {
+                    "name": "GDD - template",
+                    "extension": "/20516/113368",
+                    "type": "doc",
+                    "date": "20.12.24"
+                },
+                {
+                    "name": "01 - Uvodno predavanje",
+                    "extension": "/20516/111366",
+                    "type": "pdf",
+                    "date": "09.10.24"
+                },
+                {
+                    "name": "02 - 2D grafika i fizika",
+                    "extension": "/20516/111580",
+                    "type": "pdf",
+                    "date": "16.10.24"
+                },
+                {
+                    "name": "03 - Korisničko sučelje i Upravljanje tijekom igre",
+                    "extension": "/20516/111792",
+                    "type": "pdf",
+                    "date": "23.10.24"
+                },
+                {
+                    "name": "04 - Animacije",
+                    "extension": "/20516/112008",
+                    "type": "pdf",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "05 - Osnove 3D objekata",
+                    "extension": "/20516/112123",
+                    "type": "pdf",
+                    "date": "06.11.24"
+                },
+                {
+                    "name": "06 - Blender, 3D objekti i animacije",
+                    "extension": "/20516/112298",
+                    "type": "pdf",
+                    "date": "13.11.24"
+                },
+                {
+                    "name": "07 - Osvjetljenje, sjene i kamera",
+                    "extension": "/20516/112481",
+                    "type": "pdf",
+                    "date": "20.11.24"
+                },
+                {
+                    "name": "08 - Sustavi čestica i audio",
+                    "extension": "/20516/112692",
+                    "type": "pdf",
+                    "date": "27.11.24"
+                },
+                {
+                    "name": "09 - Umjetna inteligencija",
+                    "extension": "/20516/113084",
+                    "type": "pdf",
+                    "date": "11.12.24"
+                },
+                {
+                    "name": "02 - 2D grafika i fizika",
+                    "extension": "/20516/111581",
+                    "type": "zip",
+                    "date": "16.10.24"
+                },
+                {
+                    "name": "03 - Korisničko sučelje i Upravljanje tijekom igre",
+                    "extension": "/20516/111793",
+                    "type": "zip",
+                    "date": "23.10.24"
+                },
+                {
+                    "name": "04 - Animacije 2D",
+                    "extension": "/20516/112009",
+                    "type": "zip",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "04 - Animacije 3D",
+                    "extension": "/20516/112010",
+                    "type": "zip",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "07 - Osvjetljenje, sjene i kamera",
+                    "extension": "/20516/112482",
+                    "type": "zip",
+                    "date": "20.11.24"
+                },
+                {
+                    "name": "08 - Sustavi čestica i audio",
+                    "extension": "/20516/112693",
+                    "type": "zip",
+                    "date": "27.11.24"
+                },
+                {
+                    "name": "09 - Umjetna inteligencija",
+                    "extension": "/20516/113085",
+                    "type": "zip",
+                    "date": "11.12.24"
+                },
+                {
+                    "name": "00 - Uvod u objektno orijentirano programiranje",
+                    "extension": "/20516/111550",
+                    "type": "pdf",
+                    "date": "15.10.24"
+                },
+                {
+                    "name": "00 - Uvod u objektno orijentirano programiranje (kod)",
+                    "extension": "/20516/111551",
+                    "type": "zip",
+                    "date": "15.10.24"
+                },
+                {
+                    "name": "01 - Prva laboratorijska vježba",
+                    "extension": "/20516/111715",
+                    "type": "pdf",
+                    "date": "21.10.24"
+                },
+                {
+                    "name": "01 - PrvaLaboratorijskaVjezba.zip",
+                    "extension": "/20516/111716",
+                    "type": "zip",
+                    "date": "21.10.24"
+                },
+                {
+                    "name": "02 - Druga laboratorijska vježba",
+                    "extension": "/20516/111888",
+                    "type": "pdf",
+                    "date": "25.10.24"
+                },
+                {
+                    "name": "02 - Druga laboratorijska vježba.zip",
+                    "extension": "/20516/111889",
+                    "type": "zip",
+                    "date": "25.10.24"
+                },
+                {
+                    "name": "03 - Treća laboratorijska vježba",
+                    "extension": "/20516/112204",
+                    "type": "pdf",
+                    "date": "08.11.24"
+                },
+                {
+                    "name": "04 - Četvrta laboratorijska vježba",
+                    "extension": "/20516/112360",
+                    "type": "pdf",
+                    "date": "15.11.24"
+                },
+                {
+                    "name": "05 - Peta laboratorijska vježba",
+                    "extension": "/20516/112574",
+                    "type": "pdf",
+                    "date": "22.11.24"
+                },
+                {
+                    "name": "06 - Šesta laboratorijska vježba",
+                    "extension": "/20516/112973",
+                    "type": "pdf",
+                    "date": "06.12.24"
+                },
+                {
+                    "name": "07 - Sedma laboratorijska vježba",
+                    "extension": "/20516/113202",
+                    "type": "pdf",
+                    "date": "14.12.24"
+                },
+                {
+                    "name": "X bot model",
+                    "extension": "/20516/113203",
+                    "type": "zip",
+                    "date": "14.12.24"
+                },
+                {
+                    "name": "Popis studenata nakon 1. laboratorijske vježbe",
+                    "extension": "/20516/111890",
+                    "type": "pdf",
+                    "date": "25.10.24"
+                },
+                {
+                    "name": "Popis studenata nakon 2. laboratorijske vježbe",
+                    "extension": "/20516/112203",
+                    "type": "pdf",
+                    "date": "08.11.24"
+                },
+                {
+                    "name": "Popis studenata nakon 3. laboratorijske vježbe",
+                    "extension": "/20516/112359",
+                    "type": "pdf",
+                    "date": "15.11.24"
+                },
+                {
+                    "name": "Popis studenata nakon 4. laboratorijske vježbe",
+                    "extension": "/20516/112575",
+                    "type": "pdf",
+                    "date": "22.11.24"
+                },
+                {
+                    "name": "Popis studenata nakon 5. laboratorijske vježbe",
+                    "extension": "/20516/112758",
+                    "type": "pdf",
+                    "date": "29.11.24"
+                },
+                {
+                    "name": "Popis studenata nakon 1. kolokvija",
+                    "extension": "/20516/112883",
+                    "type": "pdf",
+                    "date": "04.12.24"
+                },
+                {
+                    "name": "Popis studenata nakon 6. laboratorijske vježbe",
+                    "extension": "/20516/113204",
+                    "type": "pdf",
+                    "date": "14.12.24"
+                },
+                {
+                    "name": "Snimke predavanja - 2020",
+                    "extension": "https://youtube.com/playlist?list=PLYhBKLjmYC-6MJN8Cd00PRhyZH1Uqdf90&si=tlvVCK6896TzYI-O",
+                    "type": "html",
+                    "date": "27.09.24"
+                },
+                {
+                    "name": "Unity dokumentacija",
+                    "extension": "http://docs.unity3d.com/Manual/index.html",
+                    "type": "html",
+                    "date": "07.03.16"
+                },
+                {
+                    "name": "Unity API",
+                    "extension": "http://docs.unity3d.com/ScriptReference/index.html",
+                    "type": "html",
+                    "date": "12.03.16"
+                },
+                {
+                    "name": "Blender 3D: Noob to Pro",
+                    "extension": "https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro",
+                    "type": "html",
+                    "date": "11.04.16"
+                },
+                {
+                    "name": "Blender Hotkey Reference",
+                    "extension": "http://download.blender.org/documentation/BlenderHotkeyReference.pdf",
+                    "type": "html",
+                    "date": "17.04.16"
+                },
+                {
+                    "name": "Blender download",
+                    "extension": "https://www.blender.org/download/",
+                    "type": "html",
+                    "date": "18.04.16"
+                },
+                {
+                    "name": "Projekti 2023/2024",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EucFT7ml6ElAgU3AhEse8c8BeX8vStgvgTjd4MyDbQDeXA?e=v1Tjw5",
+                    "type": "html",
+                    "date": "27.09.24"
+                },
+                {
+                    "name": "Projekti 2022/2023",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EhUhUYj4wudFrpXJl_GKndkBdd8DRaJYFnnHr5i0H1vazw?e=UIov9y",
+                    "type": "html",
+                    "date": "29.09.23"
+                },
+                {
+                    "name": "Primjeri projekata 2021/2022",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EoL7qlp4s2ZOiB8lOmn2LbcBH8kXiSquX3X21VLOqSnEgg?e=3VdWHI",
+                    "type": "html",
+                    "date": "22.09.22"
+                },
+                {
+                    "name": "Primjeri projekata 2020/2021",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EqLO2xnoMo9IjSwnWqc6_WIBOfD64Z8YMMzHuoCyEqLAPw?e=7z9owy",
+                    "type": "html",
+                    "date": "24.10.21"
+                },
+                {
+                    "name": "Primjeri projekata 2019/2020",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EjtzMkHIT9lGt4KqJM6TGjQBBONEqlKjY84-8cclCb720g?e=OYgPtS",
+                    "type": "html",
+                    "date": "01.10.20"
+                },
+                {
+                    "name": "Primjeri projekata ID/RAČ 2017/2018",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EnuegLo1WQlLvTPHBf9ZcyIB_mIpX46wL5UkD-PHjOMnwA?e=992bfC",
+                    "type": "html",
+                    "date": "13.12.18"
+                },
+                {
+                    "name": "Primjeri projekata ID/RAČ 2016/2017",
+                    "extension": "https://www.dropbox.com/sh/wau0rpu1h47m1m7/AABoOI3pvKH_a8g1hiuynsSGa?dl=0",
+                    "type": "html",
+                    "date": "24.11.17"
+                },
+                {
+                    "name": "Primjeri projekata računarstvo 2016.",
+                    "extension": "https://www.dropbox.com/sh/6rmpgskv16zyr7v/AABkTRBypC1Cy5GH_nG184LRa?dl=0",
+                    "type": "html",
+                    "date": "03.11.16"
+                },
+                {
+                    "name": "Volcano Run",
+                    "extension": "https://www.dropbox.com/s/twta912cda8vhy8/Volcano%20Run-video.mp4?dl=0",
+                    "type": "html",
+                    "date": "12.03.16"
+                },
+                {
+                    "name": "Robo Platformer",
+                    "extension": "http://https://www.dropbox.com/s/sv4pwsr9z8es9o8/robo%20platformer.mp4?dl=0",
+                    "type": "html",
+                    "date": "12.03.16"
+                }
+            ]
+        }
+    ]
+}

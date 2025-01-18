@@ -1,0 +1,424 @@
+{
+    "courses": [
+        {
+            "name": "Napredne baze podataka",
+            "notifications": [],
+            "files": [
+                {
+                    "name": "Upute za pristup timu na MS Teamsu",
+                    "extension": "/16003/81391",
+                    "type": "pdf",
+                    "date": "05.10.20"
+                },
+                {
+                    "name": "Kramberger, Kraljević (Duk), Kovačević: \"Baze podataka\"",
+                    "extension": "/16003/61589",
+                    "type": "pdf",
+                    "date": "01.10.18"
+                },
+                {
+                    "name": "Priručnik za rad s MySQL DBMS-om",
+                    "extension": "http://dev.mysql.com/doc/refman/5.7/en/",
+                    "type": "html",
+                    "date": "24.10.16"
+                },
+                {
+                    "name": "Popis literature",
+                    "extension": "/16003/15885",
+                    "type": "pdf",
+                    "date": "17.01.13"
+                },
+                {
+                    "name": "Preuzimanje SQLyog alata",
+                    "extension": "https://code.google.com/archive/p/sqlyog/wikis/Downloads.wiki",
+                    "type": "html",
+                    "date": "24.10.16"
+                },
+                {
+                    "name": "Preuzimanje MySQL dbms-a",
+                    "extension": "http://dev.mysql.com/downloads/mysql/",
+                    "type": "html",
+                    "date": "24.10.16"
+                },
+                {
+                    "name": "Preuzimanje uWamp alata",
+                    "extension": "http://www.uwamp.com/en/?page=download",
+                    "type": "html",
+                    "date": "24.10.16"
+                }
+            ]
+        },
+        {
+            "name": "Razvoj računalnih igara",
+            "notifications": [
+                {
+                    "title": "MS Teams kanal",
+                    "message": "Za pristup MS Teams kanalu koristite pristupni kod: xq8k7b6",
+                    "time": "9.10.2024 u 19h"
+                }
+            ],
+            "files": [
+                {
+                    "name": "00 - Pravila kolegija",
+                    "extension": "/20516/111367",
+                    "type": "pdf",
+                    "date": "09.10.24"
+                },
+                {
+                    "name": "Smjernice za projekt",
+                    "extension": "/20516/113367",
+                    "type": "pdf",
+                    "date": "20.12.24"
+                },
+                {
+                    "name": "GDD - template",
+                    "extension": "/20516/113368",
+                    "type": "doc",
+                    "date": "20.12.24"
+                },
+                {
+                    "name": "01 - Uvodno predavanje",
+                    "extension": "/20516/111366",
+                    "type": "pdf",
+                    "date": "09.10.24"
+                },
+                {
+                    "name": "02 - 2D grafika i fizika",
+                    "extension": "/20516/111580",
+                    "type": "pdf",
+                    "date": "16.10.24"
+                },
+                {
+                    "name": "03 - Korisničko sučelje i Upravljanje tijekom igre",
+                    "extension": "/20516/111792",
+                    "type": "pdf",
+                    "date": "23.10.24"
+                },
+                {
+                    "name": "04 - Animacije",
+                    "extension": "/20516/112008",
+                    "type": "pdf",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "05 - Osnove 3D objekata",
+                    "extension": "/20516/112123",
+                    "type": "pdf",
+                    "date": "06.11.24"
+                },
+                {
+                    "name": "06 - Blender, 3D objekti i animacije",
+                    "extension": "/20516/112298",
+                    "type": "pdf",
+                    "date": "13.11.24"
+                },
+                {
+                    "name": "07 - Osvjetljenje, sjene i kamera",
+                    "extension": "/20516/112481",
+                    "type": "pdf",
+                    "date": "20.11.24"
+                },
+                {
+                    "name": "08 - Sustavi čestica i audio",
+                    "extension": "/20516/112692",
+                    "type": "pdf",
+                    "date": "27.11.24"
+                },
+                {
+                    "name": "09 - Umjetna inteligencija",
+                    "extension": "/20516/113084",
+                    "type": "pdf",
+                    "date": "11.12.24"
+                },
+                {
+                    "name": "10 - Multiplayer",
+                    "extension": "/20516/113484",
+                    "type": "pdf",
+                    "date": "08.01.25"
+                },
+                {
+                    "name": "11 - Razvoj igara za alternativne platforme",
+                    "extension": "/20516/113486",
+                    "type": "pdf",
+                    "date": "08.01.25"
+                },
+                {
+                    "name": "02 - 2D grafika i fizika",
+                    "extension": "/20516/111581",
+                    "type": "zip",
+                    "date": "16.10.24"
+                },
+                {
+                    "name": "03 - Korisničko sučelje i Upravljanje tijekom igre",
+                    "extension": "/20516/111793",
+                    "type": "zip",
+                    "date": "23.10.24"
+                },
+                {
+                    "name": "04 - Animacije 2D",
+                    "extension": "/20516/112009",
+                    "type": "zip",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "04 - Animacije 3D",
+                    "extension": "/20516/112010",
+                    "type": "zip",
+                    "date": "30.10.24"
+                },
+                {
+                    "name": "07 - Osvjetljenje, sjene i kamera",
+                    "extension": "/20516/112482",
+                    "type": "zip",
+                    "date": "20.11.24"
+                },
+                {
+                    "name": "08 - Sustavi čestica i audio",
+                    "extension": "/20516/112693",
+                    "type": "zip",
+                    "date": "27.11.24"
+                },
+                {
+                    "name": "09 - Umjetna inteligencija",
+                    "extension": "/20516/113085",
+                    "type": "zip",
+                    "date": "11.12.24"
+                },
+                {
+                    "name": "10 - Multiplayer - Mirror",
+                    "extension": "/20516/113485",
+                    "type": "zip",
+                    "date": "08.01.25"
+                },
+                {
+                    "name": "11 - Razvoj igara za alternativne platforme - Touch",
+                    "extension": "/20516/113487",
+                    "type": "zip",
+                    "date": "08.01.25"
+                },
+                {
+                    "name": "11 - Razvoj igara za alternativne platforme - Cardboard",
+                    "extension": "/20516/113488",
+                    "type": "zip",
+                    "date": "08.01.25"
+                },
+                {
+                    "name": "00 - Uvod u objektno orijentirano programiranje",
+                    "extension": "/20516/111550",
+                    "type": "pdf",
+                    "date": "15.10.24"
+                },
+                {
+                    "name": "00 - Uvod u objektno orijentirano programiranje (kod)",
+                    "extension": "/20516/111551",
+                    "type": "zip",
+                    "date": "15.10.24"
+                },
+                {
+                    "name": "01 - Prva laboratorijska vježba",
+                    "extension": "/20516/111715",
+                    "type": "pdf",
+                    "date": "21.10.24"
+                },
+                {
+                    "name": "01 - PrvaLaboratorijskaVjezba.zip",
+                    "extension": "/20516/111716",
+                    "type": "zip",
+                    "date": "21.10.24"
+                },
+                {
+                    "name": "02 - Druga laboratorijska vježba",
+                    "extension": "/20516/111888",
+                    "type": "pdf",
+                    "date": "25.10.24"
+                },
+                {
+                    "name": "02 - Druga laboratorijska vježba.zip",
+                    "extension": "/20516/111889",
+                    "type": "zip",
+                    "date": "25.10.24"
+                },
+                {
+                    "name": "03 - Treća laboratorijska vježba",
+                    "extension": "/20516/112204",
+                    "type": "pdf",
+                    "date": "08.11.24"
+                },
+                {
+                    "name": "04 - Četvrta laboratorijska vježba",
+                    "extension": "/20516/112360",
+                    "type": "pdf",
+                    "date": "15.11.24"
+                },
+                {
+                    "name": "05 - Peta laboratorijska vježba",
+                    "extension": "/20516/112574",
+                    "type": "pdf",
+                    "date": "22.11.24"
+                },
+                {
+                    "name": "06 - Šesta laboratorijska vježba",
+                    "extension": "/20516/112973",
+                    "type": "pdf",
+                    "date": "06.12.24"
+                },
+                {
+                    "name": "07 - Sedma laboratorijska vježba",
+                    "extension": "/20516/113202",
+                    "type": "pdf",
+                    "date": "14.12.24"
+                },
+                {
+                    "name": "X bot model",
+                    "extension": "/20516/113203",
+                    "type": "zip",
+                    "date": "14.12.24"
+                },
+                {
+                    "name": "StarterAssets",
+                    "extension": "/20516/113483",
+                    "type": "x",
+                    "date": "08.01.25"
+                },
+                {
+                    "name": "Popis studenata nakon 1. laboratorijske vježbe",
+                    "extension": "/20516/111890",
+                    "type": "pdf",
+                    "date": "25.10.24"
+                },
+                {
+                    "name": "Popis studenata nakon 2. laboratorijske vježbe",
+                    "extension": "/20516/112203",
+                    "type": "pdf",
+                    "date": "08.11.24"
+                },
+                {
+                    "name": "Popis studenata nakon 3. laboratorijske vježbe",
+                    "extension": "/20516/112359",
+                    "type": "pdf",
+                    "date": "15.11.24"
+                },
+                {
+                    "name": "Popis studenata nakon 4. laboratorijske vježbe",
+                    "extension": "/20516/112575",
+                    "type": "pdf",
+                    "date": "22.11.24"
+                },
+                {
+                    "name": "Popis studenata nakon 5. laboratorijske vježbe",
+                    "extension": "/20516/112758",
+                    "type": "pdf",
+                    "date": "29.11.24"
+                },
+                {
+                    "name": "Popis studenata nakon 1. kolokvija",
+                    "extension": "/20516/112883",
+                    "type": "pdf",
+                    "date": "04.12.24"
+                },
+                {
+                    "name": "Popis studenata nakon 6. laboratorijske vježbe",
+                    "extension": "/20516/113204",
+                    "type": "pdf",
+                    "date": "14.12.24"
+                },
+                {
+                    "name": "Snimke predavanja - 2020",
+                    "extension": "https://youtube.com/playlist?list=PLYhBKLjmYC-6MJN8Cd00PRhyZH1Uqdf90&si=tlvVCK6896TzYI-O",
+                    "type": "html",
+                    "date": "27.09.24"
+                },
+                {
+                    "name": "Unity dokumentacija",
+                    "extension": "http://docs.unity3d.com/Manual/index.html",
+                    "type": "html",
+                    "date": "07.03.16"
+                },
+                {
+                    "name": "Unity API",
+                    "extension": "http://docs.unity3d.com/ScriptReference/index.html",
+                    "type": "html",
+                    "date": "12.03.16"
+                },
+                {
+                    "name": "Blender 3D: Noob to Pro",
+                    "extension": "https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro",
+                    "type": "html",
+                    "date": "11.04.16"
+                },
+                {
+                    "name": "Blender Hotkey Reference",
+                    "extension": "http://download.blender.org/documentation/BlenderHotkeyReference.pdf",
+                    "type": "html",
+                    "date": "17.04.16"
+                },
+                {
+                    "name": "Blender download",
+                    "extension": "https://www.blender.org/download/",
+                    "type": "html",
+                    "date": "18.04.16"
+                },
+                {
+                    "name": "Projekti 2023/2024",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EucFT7ml6ElAgU3AhEse8c8BeX8vStgvgTjd4MyDbQDeXA?e=v1Tjw5",
+                    "type": "html",
+                    "date": "27.09.24"
+                },
+                {
+                    "name": "Projekti 2022/2023",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EhUhUYj4wudFrpXJl_GKndkBdd8DRaJYFnnHr5i0H1vazw?e=UIov9y",
+                    "type": "html",
+                    "date": "29.09.23"
+                },
+                {
+                    "name": "Primjeri projekata 2021/2022",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EoL7qlp4s2ZOiB8lOmn2LbcBH8kXiSquX3X21VLOqSnEgg?e=3VdWHI",
+                    "type": "html",
+                    "date": "22.09.22"
+                },
+                {
+                    "name": "Primjeri projekata 2020/2021",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EqLO2xnoMo9IjSwnWqc6_WIBOfD64Z8YMMzHuoCyEqLAPw?e=7z9owy",
+                    "type": "html",
+                    "date": "24.10.21"
+                },
+                {
+                    "name": "Primjeri projekata 2019/2020",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EjtzMkHIT9lGt4KqJM6TGjQBBONEqlKjY84-8cclCb720g?e=OYgPtS",
+                    "type": "html",
+                    "date": "01.10.20"
+                },
+                {
+                    "name": "Primjeri projekata ID/RAČ 2017/2018",
+                    "extension": "https://tvzhr-my.sharepoint.com/:f:/g/personal/rkovacevi_tvz_hr/EnuegLo1WQlLvTPHBf9ZcyIB_mIpX46wL5UkD-PHjOMnwA?e=992bfC",
+                    "type": "html",
+                    "date": "13.12.18"
+                },
+                {
+                    "name": "Primjeri projekata ID/RAČ 2016/2017",
+                    "extension": "https://www.dropbox.com/sh/wau0rpu1h47m1m7/AABoOI3pvKH_a8g1hiuynsSGa?dl=0",
+                    "type": "html",
+                    "date": "24.11.17"
+                },
+                {
+                    "name": "Primjeri projekata računarstvo 2016.",
+                    "extension": "https://www.dropbox.com/sh/6rmpgskv16zyr7v/AABkTRBypC1Cy5GH_nG184LRa?dl=0",
+                    "type": "html",
+                    "date": "03.11.16"
+                },
+                {
+                    "name": "Volcano Run",
+                    "extension": "https://www.dropbox.com/s/twta912cda8vhy8/Volcano%20Run-video.mp4?dl=0",
+                    "type": "html",
+                    "date": "12.03.16"
+                },
+                {
+                    "name": "Robo Platformer",
+                    "extension": "http://https://www.dropbox.com/s/sv4pwsr9z8es9o8/robo%20platformer.mp4?dl=0",
+                    "type": "html",
+                    "date": "12.03.16"
+                }
+            ]
+        }
+    ]
+}

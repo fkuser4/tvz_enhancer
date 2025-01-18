@@ -1,0 +1,61 @@
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env
+.venv
+env/
+ENV/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyQt Specific
+*.ui.py  # Compiled UI files
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDE Specific
+.vscode/
+*.swp
+*.swo
+
+# Personal/System Files
+.DS_Store
+.vs/
+
+# Selenium WebDriver Temp Files
+selenium-screenshot-*.png
+
+# Sensitive Data (IMPORTANT)
+*.env
+config.ini
+secrets.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Compiled Python files
+*.pyc

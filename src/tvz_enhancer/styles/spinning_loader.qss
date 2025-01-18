@@ -1,0 +1,6 @@
+/* styles/spinning_loader.qss */
+
+/* Example: If you have specific styles for SpinningLoader */
+SpinningLoader {
+    /* Currently, drawing is handled via Python, so this might be empty */
+}
